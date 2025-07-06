@@ -1,0 +1,273 @@
+[2025-07-06 04:37:04] [INFO] User: guest | Application initialized
+[2025-07-06 04:37:04] [WARNING] User: 1 | Failed login attempt for user: admin
+[2025-07-06 04:37:04] [INFO] User: 5 | New user registered: testuser_1751776624
+[2025-07-06 04:37:04] [INFO] User: 5 | Successful login
+[2025-07-06 04:37:04] [INFO] User: 5 | User logged out
+[2025-07-06 04:40:04] [INFO] User: guest | Application initialized
+[2025-07-06 04:40:05] [WARNING] User: 1 | Failed login attempt for user: admin
+[2025-07-06 04:40:05] [INFO] User: 6 | New user registered: testuser_1751776805
+[2025-07-06 04:40:05] [INFO] User: 6 | Successful login
+[2025-07-06 04:40:05] [INFO] User: 6 | User logged out
+[2025-07-06 04:41:13] [INFO] User: guest | Application initialized
+[2025-07-06 04:52:14] [INFO] User: guest | Application initialized
+[2025-07-06 04:52:14] [WARNING] User: 1 | Failed login attempt for user: admin
+[2025-07-06 04:52:14] [INFO] User: 7 | New user registered: testuser_1751777534
+[2025-07-06 04:52:14] [INFO] User: 7 | Successful login
+[2025-07-06 04:52:14] [INFO] User: 7 | User logged out
+[2025-07-06 04:52:24] [INFO] User: guest | Application initialized
+[2025-07-06 04:52:24] [WARNING] User: 1 | Failed login attempt for user: admin
+[2025-07-06 04:52:24] [INFO] User: 8 | New user registered: testuser_1751777544
+[2025-07-06 04:52:24] [INFO] User: 8 | Successful login
+[2025-07-06 04:52:24] [INFO] User: 8 | User logged out
+[2025-07-06 04:52:34] [INFO] User: guest | Application initialized
+[2025-07-06 04:53:17] [INFO] User: guest | Application initialized
+[2025-07-06 04:58:33] [INFO] User: guest | Application initialized
+[2025-07-06 04:59:40] [INFO] User: guest | Application initialized
+[2025-07-06 05:03:47] [INFO] User: guest | Application initialized
+[2025-07-06 05:03:48] [INFO] User: guest | Application initialized
+[2025-07-06 05:08:26] [INFO] User: guest | Application initialized
+[2025-07-06 05:08:29] [INFO] User: guest | Application initialized
+[2025-07-06 05:08:39] [INFO] User: guest | Application initialized
+[2025-07-06 05:10:12] [INFO] User: guest | Application initialized
+[2025-07-06 05:15:10] [INFO] User: guest | Application initialized
+[2025-07-06 05:19:02] [INFO] User: guest | Application initialized
+[2025-07-06 05:22:42] [INFO] User: guest | Application initialized
+[2025-07-06 05:22:42] [INFO] User: 9 | New user registered: Megas
+[2025-07-06 05:22:45] [INFO] User: guest | Application initialized
+[2025-07-06 05:23:05] [INFO] User: guest | Application initialized
+[2025-07-06 05:23:05] [WARNING] User: guest | Login attempt with invalid username: megaswalker1@gmail.com
+[2025-07-06 05:23:33] [INFO] User: guest | Application initialized
+[2025-07-06 05:23:33] [WARNING] User: guest | Login attempt with invalid username: kwadwomegas@gmail.com
+[2025-07-06 05:24:34] [INFO] User: guest | Application initialized
+[2025-07-06 05:24:34] [INFO] User: 9 | Successful login
+[2025-07-06 05:27:44] [INFO] User: 9 | Application initialized
+[2025-07-06 05:27:49] [INFO] User: 9 | Application initialized
+[2025-07-06 05:27:54] [INFO] User: 9 | Application initialized
+[2025-07-06 05:28:04] [INFO] User: 9 | Application initialized
+[2025-07-06 05:31:18] [INFO] User: 9 | Application initialized
+[2025-07-06 05:31:19] [INFO] User: 9 | Application initialized
+[2025-07-06 05:31:19] [INFO] User: 9 | Application initialized
+[2025-07-06 05:34:04] [INFO] User: 9 | Application initialized
+[2025-07-06 05:34:04] [INFO] User: 9 | User logged out
+[2025-07-06 05:34:07] [INFO] User: guest | Application initialized
+[2025-07-06 05:34:09] [INFO] User: guest | Application initialized
+[2025-07-06 05:34:22] [INFO] User: guest | Application initialized
+[2025-07-06 05:34:22] [WARNING] User: 1 | Failed login attempt for user: admin
+[2025-07-06 05:37:18] [INFO] User: guest | Application initialized
+[2025-07-06 05:37:18] [INFO] User: 9 | Password reset requested
+[2025-07-06 05:42:08] [INFO] User: guest | Application initialized
+[2025-07-06 05:42:08] [WARNING] User: 13 | Failed login attempt for user: Joojo
+[2025-07-06 05:42:42] [INFO] User: guest | Application initialized
+[2025-07-06 05:42:42] [WARNING] User: 13 | Failed login attempt for user: Joojo
+[2025-07-06 05:47:09] [INFO] User: guest | Application initialized
+[2025-07-06 05:47:09] [INFO] User: 13 | Successful login
+[2025-07-06 05:47:11] [INFO] User: 13 | Application initialized
+[2025-07-06 05:58:48] [INFO] User: 13 | Application initialized
+[2025-07-06 05:58:58] [INFO] User: 13 | Application initialized
+[2025-07-06 05:59:13] [INFO] User: 13 | Application initialized
+[2025-07-06 05:59:21] [INFO] User: 13 | Application initialized
+[2025-07-06 06:08:36] [INFO] User: 13 | Application initialized
+[2025-07-06 06:08:39] [INFO] User: 13 | Application initialized
+[2025-07-06 06:08:48] [INFO] User: 13 | Application initialized
+[2025-07-06 06:09:01] [INFO] User: 13 | Application initialized
+[2025-07-06 06:09:19] [INFO] User: 13 | Application initialized
+[2025-07-06 06:09:21] [INFO] User: 13 | Application initialized
+[2025-07-06 06:09:36] [INFO] User: 13 | Application initialized
+[2025-07-06 06:13:15] [INFO] User: 13 | Application initialized
+[2025-07-06 06:13:24] [INFO] User: 13 | Application initialized
+[2025-07-06 06:13:34] [INFO] User: 13 | Application initialized
+[2025-07-06 06:14:09] [INFO] User: 13 | Application initialized
+[2025-07-06 06:14:09] [INFO] User: 13 | Application initialized
+[2025-07-06 06:14:18] [INFO] User: guest | Application initialized
+[2025-07-06 06:14:20] [INFO] User: guest | Application initialized
+[2025-07-06 06:14:40] [INFO] User: guest | Application initialized
+[2025-07-06 06:14:40] [WARNING] User: 9 | Failed login attempt for user: Megas
+[2025-07-06 06:15:00] [INFO] User: guest | Application initialized
+[2025-07-06 06:15:00] [WARNING] User: 9 | Failed login attempt for user: Megas
+[2025-07-06 06:15:06] [INFO] User: 13 | Application initialized
+[2025-07-06 06:15:08] [INFO] User: 13 | Application initialized
+[2025-07-06 06:15:22] [INFO] User: 13 | Application initialized
+[2025-07-06 06:15:26] [INFO] User: 13 | Application initialized
+[2025-07-06 06:15:53] [INFO] User: 13 | Application initialized
+[2025-07-06 06:15:53] [INFO] User: 13 | User updated: Megas
+[2025-07-06 06:16:06] [INFO] User: guest | Application initialized
+[2025-07-06 06:16:06] [INFO] User: 9 | Successful login
+[2025-07-06 06:16:08] [INFO] User: 9 | Application initialized
+[2025-07-06 06:17:03] [INFO] User: 13 | Application initialized
+[2025-07-06 06:17:13] [INFO] User: 13 | Application initialized
+[2025-07-06 06:18:00] [INFO] User: 13 | Application initialized
+[2025-07-06 06:18:01] [INFO] User: 13 | Application initialized
+[2025-07-06 06:18:50] [INFO] User: 13 | Application initialized
+[2025-07-06 06:19:08] [INFO] User: 13 | Application initialized
+[2025-07-06 06:19:08] [INFO] User: 13 | Project created: Yoga
+[2025-07-06 06:19:08] [INFO] User: 13 | Application initialized
+[2025-07-06 06:19:28] [INFO] User: 9 | Application initialized
+[2025-07-06 06:19:30] [INFO] User: 9 | Application initialized
+[2025-07-06 06:20:37] [INFO] User: 9 | Application initialized
+[2025-07-06 09:36:52] [INFO] User: guest | Application initialized
+[2025-07-06 09:37:01] [INFO] User: guest | Application initialized
+[2025-07-06 09:37:16] [INFO] User: guest | Application initialized
+[2025-07-06 09:37:32] [INFO] User: guest | Application initialized
+[2025-07-06 09:37:50] [INFO] User: guest | Application initialized
+[2025-07-06 09:37:50] [INFO] User: 13 | Successful login
+[2025-07-06 09:37:52] [INFO] User: 13 | Application initialized
+[2025-07-06 10:49:43] [INFO] User: guest | Application initialized
+[2025-07-06 10:49:56] [INFO] User: guest | Application initialized
+[2025-07-06 10:50:00] [INFO] User: guest | Application initialized
+[2025-07-06 10:50:16] [INFO] User: guest | Application initialized
+[2025-07-06 10:50:37] [INFO] User: guest | Application initialized
+[2025-07-06 10:50:37] [INFO] User: 9 | Successful login
+[2025-07-06 10:50:39] [INFO] User: 9 | Application initialized
+[2025-07-06 10:50:43] [INFO] User: 9 | Application initialized
+[2025-07-06 11:01:53] [INFO] User: guest | Application initialized
+[2025-07-06 11:16:09] [INFO] User: guest | Application initialized
+[2025-07-06 11:16:11] [INFO] User: guest | Application initialized
+[2025-07-06 11:16:37] [INFO] User: guest | Application initialized
+[2025-07-06 11:16:37] [INFO] User: 13 | Successful login
+[2025-07-06 11:16:39] [INFO] User: 13 | Application initialized
+[2025-07-06 11:17:40] [INFO] User: 13 | Application initialized
+[2025-07-06 11:17:50] [INFO] User: 13 | Application initialized
+[2025-07-06 11:18:08] [INFO] User: 13 | Application initialized
+[2025-07-06 11:19:25] [INFO] User: 13 | Application initialized
+[2025-07-06 11:19:25] [INFO] User: 13 | Assignment created: Pass Questions
+[2025-07-06 11:19:25] [INFO] User: 13 | Application initialized
+[2025-07-06 11:19:41] [INFO] User: 9 | Application initialized
+[2025-07-06 11:19:55] [INFO] User: 9 | Application initialized
+[2025-07-06 11:20:10] [INFO] User: 9 | Application initialized
+[2025-07-06 11:20:19] [INFO] User: 9 | Application initialized
+[2025-07-06 11:23:23] [INFO] User: 9 | Application initialized
+[2025-07-06 11:23:25] [INFO] User: 9 | Application initialized
+[2025-07-06 11:24:48] [INFO] User: 9 | Application initialized
+[2025-07-06 11:24:48] [INFO] User: 9 | Submitted assignment: Pass Questions
+[2025-07-06 11:24:54] [INFO] User: 9 | Application initialized
+[2025-07-06 11:25:45] [INFO] User: 13 | Application initialized
+[2025-07-06 11:25:52] [INFO] User: 13 | Application initialized
+[2025-07-06 11:25:58] [INFO] User: 13 | Application initialized
+[2025-07-06 11:26:37] [INFO] User: 13 | Application initialized
+[2025-07-06 11:26:37] [INFO] User: 13 | Reviewed assignment: Pass Questions
+[2025-07-06 11:26:49] [INFO] User: 9 | Application initialized
+[2025-07-06 11:26:57] [INFO] User: 9 | Application initialized
+[2025-07-06 11:27:08] [INFO] User: 9 | Application initialized
+[2025-07-06 11:27:12] [INFO] User: 9 | Application initialized
+[2025-07-06 11:38:15] [INFO] User: 13 | Application initialized
+[2025-07-06 11:38:24] [INFO] User: 13 | Application initialized
+[2025-07-06 11:42:19] [INFO] User: 13 | Application initialized
+[2025-07-06 11:42:29] [INFO] User: 13 | Application initialized
+[2025-07-06 11:42:45] [INFO] User: 13 | Application initialized
+[2025-07-06 11:44:17] [INFO] User: 13 | Application initialized
+[2025-07-06 11:44:22] [INFO] User: 13 | Application initialized
+[2025-07-06 11:47:43] [INFO] User: 13 | Application initialized
+[2025-07-06 11:47:54] [INFO] User: 13 | Application initialized
+[2025-07-06 11:47:57] [INFO] User: 13 | Application initialized
+[2025-07-06 11:49:00] [INFO] User: 9 | Application initialized
+[2025-07-06 11:49:04] [INFO] User: 9 | Application initialized
+[2025-07-06 11:49:46] [INFO] User: 9 | Application initialized
+[2025-07-06 11:49:48] [INFO] User: 9 | Application initialized
+[2025-07-06 11:50:12] [INFO] User: 9 | Application initialized
+[2025-07-06 11:50:15] [INFO] User: 9 | Application initialized
+[2025-07-06 11:50:18] [INFO] User: 9 | Application initialized
+[2025-07-06 11:50:57] [INFO] User: 9 | Application initialized
+[2025-07-06 11:51:01] [INFO] User: 9 | Application initialized
+[2025-07-06 11:51:25] [INFO] User: 9 | Application initialized
+[2025-07-06 11:51:29] [INFO] User: 9 | Application initialized
+[2025-07-06 11:51:32] [INFO] User: 9 | Application initialized
+[2025-07-06 12:06:48] [INFO] User: 9 | Application initialized
+[2025-07-06 12:07:51] [INFO] User: 9 | Application initialized
+[2025-07-06 12:07:52] [INFO] User: 9 | Application initialized
+[2025-07-06 12:08:06] [INFO] User: 9 | Application initialized
+[2025-07-06 12:08:06] [INFO] User: 9 | Message sent to Megas Joojo: Re: Yoo
+[2025-07-06 12:08:06] [INFO] User: 9 | Application initialized
+[2025-07-06 12:08:16] [INFO] User: 13 | Application initialized
+[2025-07-06 12:09:24] [INFO] User: 9 | Application initialized
+[2025-07-06 12:09:26] [INFO] User: 9 | Application initialized
+[2025-07-06 12:09:31] [INFO] User: 9 | Application initialized
+[2025-07-06 12:09:44] [INFO] User: 9 | Application initialized
+[2025-07-06 12:09:46] [INFO] User: 9 | Application initialized
+[2025-07-06 12:09:49] [INFO] User: 9 | Application initialized
+[2025-07-06 12:10:03] [INFO] User: 13 | Application initialized
+[2025-07-06 12:10:17] [INFO] User: 9 | Application initialized
+[2025-07-06 12:12:50] [INFO] User: 13 | Application initialized
+[2025-07-06 12:32:36] [INFO] User: 13 | Application initialized
+[2025-07-06 12:32:36] [INFO] User: 13 | User logged out
+[2025-07-06 12:32:39] [INFO] User: guest | Application initialized
+[2025-07-06 12:32:46] [INFO] User: guest | Application initialized
+[2025-07-06 12:33:08] [INFO] User: guest | Application initialized
+[2025-07-06 12:33:34] [INFO] User: guest | Application initialized
+[2025-07-06 12:34:08] [INFO] User: guest | Application initialized
+[2025-07-06 12:34:08] [INFO] User: 13 | Successful login
+[2025-07-06 12:34:11] [INFO] User: 13 | Application initialized
+[2025-07-06 12:34:35] [INFO] User: 13 | Application initialized
+[2025-07-06 12:34:46] [INFO] User: 13 | Application initialized
+[2025-07-06 12:34:50] [INFO] User: 13 | Application initialized
+[2025-07-06 12:34:52] [INFO] User: 13 | Application initialized
+[2025-07-06 12:34:56] [INFO] User: 13 | Application initialized
+[2025-07-06 12:35:00] [INFO] User: 13 | Application initialized
+[2025-07-06 12:35:34] [INFO] User: 9 | Application initialized
+[2025-07-06 12:37:23] [INFO] User: 9 | Application initialized
+[2025-07-06 12:37:31] [INFO] User: 9 | Application initialized
+[2025-07-06 12:37:34] [INFO] User: 9 | Application initialized
+[2025-07-06 14:11:48] [INFO] User: guest | Application initialized
+[2025-07-06 19:12:23] [INFO] User: guest | Application initialized
+[2025-07-06 19:13:44] [INFO] User: guest | Application initialized
+[2025-07-06 19:13:47] [INFO] User: guest | Application initialized
+[2025-07-06 19:14:06] [INFO] User: guest | Application initialized
+[2025-07-06 19:14:54] [INFO] User: guest | Application initialized
+[2025-07-06 19:14:54] [INFO] User: 14 | New user registered: Asante
+[2025-07-06 19:14:57] [INFO] User: guest | Application initialized
+[2025-07-06 19:15:15] [INFO] User: guest | Application initialized
+[2025-07-06 19:15:15] [INFO] User: 14 | Successful login
+[2025-07-06 19:15:17] [INFO] User: 14 | Application initialized
+[2025-07-06 19:15:26] [INFO] User: 14 | Application initialized
+[2025-07-06 19:15:31] [INFO] User: 14 | Application initialized
+[2025-07-06 19:21:41] [INFO] User: 14 | Application initialized
+[2025-07-06 19:21:47] [INFO] User: 14 | Application initialized
+[2025-07-06 19:21:49] [INFO] User: 14 | Application initialized
+[2025-07-06 19:22:07] [INFO] User: 14 | Application initialized
+[2025-07-06 19:22:14] [INFO] User: 14 | Application initialized
+[2025-07-06 19:23:59] [INFO] User: 14 | Application initialized
+[2025-07-06 19:24:02] [INFO] User: 14 | Application initialized
+[2025-07-06 19:27:01] [INFO] User: 14 | Application initialized
+[2025-07-06 19:27:12] [INFO] User: 14 | Application initialized
+[2025-07-06 19:27:17] [INFO] User: 14 | Application initialized
+[2025-07-06 19:35:01] [INFO] User: 14 | Application initialized
+[2025-07-06 19:38:55] [INFO] User: 14 | Application initialized
+[2025-07-06 19:38:56] [INFO] User: 14 | Application initialized
+[2025-07-06 19:39:14] [INFO] User: 14 | Application initialized
+[2025-07-06 19:39:14] [INFO] User: 14 | User logged out
+[2025-07-06 19:39:17] [INFO] User: guest | Application initialized
+[2025-07-06 19:39:18] [INFO] User: guest | Application initialized
+[2025-07-06 19:39:44] [INFO] User: guest | Application initialized
+[2025-07-06 19:39:44] [INFO] User: 13 | Successful login
+[2025-07-06 19:39:46] [INFO] User: 13 | Application initialized
+[2025-07-06 19:39:49] [INFO] User: 13 | Application initialized
+[2025-07-06 19:39:55] [INFO] User: 13 | Application initialized
+[2025-07-06 19:40:11] [INFO] User: 13 | Application initialized
+[2025-07-06 19:40:22] [INFO] User: 13 | Application initialized
+[2025-07-06 19:40:33] [INFO] User: 13 | Application initialized
+[2025-07-06 19:40:33] [INFO] User: 13 | Assignment updated: Pass Questions - Assignment ID: 1 | Form updated via web interface
+[2025-07-06 19:40:36] [INFO] User: 13 | Application initialized
+[2025-07-06 19:42:38] [INFO] User: 13 | Application initialized
+[2025-07-06 19:43:59] [INFO] User: 13 | Application initialized
+[2025-07-06 19:47:41] [INFO] User: 13 | Application initialized
+[2025-07-06 19:47:41] [INFO] User: 13 | Assignment created: Pass Questions - Assignment ID: 3 | Assigned to: Afful Bismark
+[2025-07-06 19:47:41] [INFO] User: 13 | Application initialized
+[2025-07-06 19:47:51] [INFO] User: 13 | Application initialized
+[2025-07-06 19:48:34] [INFO] User: guest | Application initialized
+[2025-07-06 19:48:37] [INFO] User: guest | Application initialized
+[2025-07-06 19:48:53] [INFO] User: guest | Application initialized
+[2025-07-06 19:48:53] [INFO] User: 9 | Successful login
+[2025-07-06 19:48:55] [INFO] User: 9 | Application initialized
+[2025-07-06 19:49:04] [INFO] User: 9 | Application initialized
+[2025-07-06 19:49:13] [INFO] User: 9 | Application initialized
+[2025-07-06 19:49:23] [INFO] User: 9 | Application initialized
+[2025-07-06 19:49:34] [INFO] User: 9 | Application initialized
+[2025-07-06 19:49:45] [INFO] User: 9 | Application initialized
+[2025-07-06 20:00:04] [INFO] User: 13 | Application initialized
+[2025-07-06 20:01:38] [INFO] User: 13 | Application initialized
+[2025-07-06 20:01:38] [INFO] User: 13 | Survey created: Push Ups
+[2025-07-06 20:02:05] [INFO] User: 13 | Application initialized
+[2025-07-06 20:09:03] [INFO] User: 13 | Application initialized
+[2025-07-06 20:15:33] [INFO] User: 13 | Application initialized
+[2025-07-06 20:15:33] [INFO] User: 13 | User logged out
+[2025-07-06 20:15:36] [INFO] User: guest | Application initialized
+[2025-07-06 20:22:50] [INFO] User: guest | Application initialized
